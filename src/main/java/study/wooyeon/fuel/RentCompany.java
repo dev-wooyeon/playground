@@ -1,4 +1,4 @@
-package study.wooyeon.calculator.practice;
+package study.wooyeon.fuel;
 
 import java.util.ArrayList;
 import java.util.List;

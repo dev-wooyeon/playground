@@ -1,4 +1,4 @@
-package study.wooyeon.calculator.practice;
+package study.wooyeon.fuel;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

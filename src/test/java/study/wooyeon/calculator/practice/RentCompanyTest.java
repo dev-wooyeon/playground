@@ -1,6 +1,10 @@
 package study.wooyeon.calculator.practice;
 
 import org.junit.jupiter.api.Test;
+import study.wooyeon.fuel.Avante;
+import study.wooyeon.fuel.K5;
+import study.wooyeon.fuel.RentCompany;
+import study.wooyeon.fuel.Sonata;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

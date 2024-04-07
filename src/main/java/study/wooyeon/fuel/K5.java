@@ -1,4 +1,4 @@
-package study.wooyeon.calculator.practice;
+package study.wooyeon.fuel;
 
 public class K5 extends Car<K5>{
 
